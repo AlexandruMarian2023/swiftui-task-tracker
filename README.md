@@ -25,3 +25,8 @@ declarative UI development, and state-driven user interfaces.
 Development Environment:
 
 Developed and explored using a browser-based SwiftUI playground on Windows 10.
+
+## Screenshots
+
+### Main Screen
+![Main Screen](screenshots/Screenshot.png)
